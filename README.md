@@ -1,7 +1,7 @@
 # ruby-gems
 Ruby Gems for Metasploit
 
-1. Downloand the repository and navigate to the folder 
+1. Download the repository and navigate to the folder 
 ```git clone https://github.com/zacharimayer/ruby-gems```
 
 ```cd ruby-gems```
